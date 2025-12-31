@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I’m Ritu!
 
-<!--
-**RITU940/RITU940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunication student
+💻 Interested in open source, web dev, ML & AI 
+📬 I’m currently contributing to open source and learning community-driven development.
 
-Here are some ideas to get you started:
+## 🔭 Projects & Skills
+- Python | JavaScript | C++  
+- Web development (HTML, CSS, JS)  
+- Computer Vision and Machine Learning
+- Open-Source Contributions in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Find me
+- LinkedIn: www.linkedin.com/in/ritu94
+- Email: baskeyritu@gmail.com
+
+✨ Always learning and building!
+
