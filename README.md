@@ -19,7 +19,7 @@ I'm **Ritu**, an Electronics & Telecommunication Engineering undergraduate at **
 
 I got into software through computer vision and research, but lately the most interesting problems have been the ones hiding in the *implementation*: an image border that behaves differently under SIMD, a raster comparison that passes when it shouldn't, or a test that looks convincing until you check its assumptions.
 
-At **ISI Kolkata's CVPR Unit**, I worked on scene-text recognition for low-resource Indic scripts, including **Florence-2 / LoRA**, grapheme-aware evaluation, and carefully tracked experiments. The part I value most is learning to make a result reproducible—not just exciting in a screenshot.
+At **ISI Kolkata's CVPR Unit**, I worked on scene-text recognition for low-resource Indic scripts, including **Florence-2 / LoRA**, grapheme-aware evaluation, and carefully tracked experiments. The part I value most is learning to make a result reproducible, not just exciting in a screenshot.
 
 These days I gravitate toward **OpenCV, GRASS GIS, GNU Radio**, signal processing, optimization, control systems, and the occasional completely unrelated side project. I still think getting a stubborn little circuit to work is one of life's better feelings.
 
