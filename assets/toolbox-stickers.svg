@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 152" role="img" aria-label="Ritu's tools: Python, C and C++, PyTorch, OpenCV, Linux, Git, MATLAB, signal processing">
+<g transform="translate(10,7) rotate(-2 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#e5bb72" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">py</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">PYTHON</text>
+</g>
+<g transform="translate(138,7) rotate(1.6 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#a5b69a" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">C++</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">C / C++</text>
+</g>
+<g transform="translate(266,7) rotate(-1.5 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#e0a484" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="18" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">torch</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">PYTORCH</text>
+</g>
+<g transform="translate(394,7) rotate(2 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#c8c9a2" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">cv</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">OPENCV</text>
+</g>
+<g transform="translate(522,7) rotate(-1.5 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#d6be9b" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">&gt;_</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">LINUX</text>
+</g>
+<g transform="translate(650,7) rotate(1 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#aaaf89" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">git</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">GIT</text>
+</g>
+<g transform="translate(778,7) rotate(-1 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#d69c7c" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">sin</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">MATLAB</text>
+</g>
+<g transform="translate(906,7) rotate(1.6 56 66)">
+<rect x="4" y="6" width="112" height="127" rx="6" fill="#202820" opacity=".48"/>
+<rect x="0" y="0" width="112" height="127" rx="6" fill="#d1c6aa" stroke="#393f31" stroke-width="2"/>
+<path d="M6 6H106M6 120H106" stroke="#6b5e4b" opacity=".35"/>
+<text x="56" y="66" text-anchor="middle" font-size="27" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">f(t)</text>
+<line x1="20" y1="84" x2="92" y2="84" stroke="#25372d" stroke-opacity=".35"/>
+<text x="56" y="107" text-anchor="middle" font-size="12" font-family="ui-monospace, Consolas, monospace" font-weight="700" fill="#25372d">SIGNALS</text>
+</g>
+</svg>
